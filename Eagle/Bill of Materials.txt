@@ -1,0 +1,41 @@
+Part   Value                            Device                            Package                  Description
+C1     10uF                             C-EUC0805                         C0805                    CAPACITOR
+C2     10uF                             C-EUC0805                         C0805                    CAPACITOR
+C3     10uF                             C-EUC0805                         C0805                    CAPACITOR
+C4     10uF                             C-EUC0805                         C0805                    CAPACITOR
+C5     1uF                              C-EUC0805                         C0805                    CAPACITOR
+C6     0.1uF                            C-EUC0805                         C0805                    CAPACITOR
+C7     0.1uF                            C-EUC0805                         C0805                    CAPACITOR
+C8     0.1uF                            C-EUC0805                         C0805                    CAPACITOR
+C9     1uF                              C-EUC0805                         C0805                    CAPACITOR
+C10    1uF                              C-EUC0805                         C0805                    CAPACITOR
+C11    10uF                             C-EUC0805                         C0805                    CAPACITOR
+C12    220pF                            C-EUC0805                         C0805                    CAPACITOR
+C13    220pF                            C-EUC0805                         C0805                    CAPACITOR
+FB1    FBFB0805                         FBFB0805                          0805                     Ferrite bead                                                                                                  
+FB2    FBFB0805                         FBFB0805                          0805                     Ferrite bead                                                                                                  
+LED1   green                            LEDCHIP-LED0805                   CHIP-LED0805             The LED on the left
+LED2   red                              LEDCHIP-LED0805                   CHIP-LED0805             The LED on the right
+R1     470                              R-EU_R0805                        R0805                    RESISTOR, European symbol                                                                                     
+R2     470                              R-EU_R0805                        R0805                    RESISTOR, European symbol                                                                                     
+R3     5.6K                             R-EU_R0805                        R0805                    RESISTOR, European symbol                                                                                     
+R4     100K                             R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R5     100K                             R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R6     10K                              R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R7     10K                              R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R8     10K                              R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R9     100K                             R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R10    10K                              R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R11    10K                              R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R12    10K                              R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R13    10K                              R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R14    10R                              R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R15    10K                              R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R16    1K                               R-EU_M0805                        M0805                    RESISTOR, European symbol                                                                                     
+R18    100R                             R-EU_R0805                        R0805                    RESISTOR, European symbol
+R19    100R                             R-EU_R0805                        R0805                    RESISTOR, European symbol
+R20    10K                              R-EU_R0805                        R0805                    RESISTOR, European symbol
+T1     S8050                            S8050                             SOT23-BEC                                                                                                                              
+U1     MCP73831/OT                      MCP73831/OT                       SOT23-5L                 MCP73831/2                                                                                                    
+U2     AP2112-REGULATOR                 AP2112-REGULATOR                  SOT23-5L                                                                                                                               
+U3     PAM8302A                         PAM8302A                          SOP8

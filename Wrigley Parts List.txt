@@ -1,0 +1,86 @@
+Wrigley Parts List
+
+These links will eventually stop working and may not be the cheapest place to find each component.
+
+10uF 0805 SMD Capacitor x 5
+1uF 0805 SMD Capacitor x 3
+0.1uF 0805 SMD Capacitor x 3
+220pF 0805 SMD Capacitor x 2
+	https://www.aliexpress.com/item/32964553793.html
+
+470R 0805 SMD Resistor x 2
+5.6K 0805 SMD Resistor x 1
+100K 0805 SMD Resistor x 3
+10K 0805 SMD Resistor x 9
+10R 0805 SMD Resistor x 1
+1K 0805 SMD Resistor x 1
+100R 0805 SMD Resistor x 2
+	https://www.aliexpress.com/item/32865947306.html
+
+600ohm 0805 SMD Ferrite Bead x 2
+	https://www.aliexpress.com/item/1005003124199167.html
+
+Red 0805 SMD LED x 1
+	https://www.aliexpress.com/item/1005005226854182.html
+
+Green 0805 SMD LED x 1
+	https://www.aliexpress.com/item/1005005226854182.html
+
+SOP-8 PAM8302A Audio Amplifier
+	https://www.aliexpress.com/item/1005006033828553.html
+
+AP2112 SMD Voltage Regulator
+	https://www.aliexpress.com/item/32998839398.html
+
+MCP73831/OT SMD Charge IC
+	https://www.aliexpress.com/item/1005006809469170.html
+
+S8050 J3Y SMD Transistor
+	https://www.aliexpress.com/item/1005006307277263.html
+
+15mm Speaker x 1
+	https://www.aliexpress.com/item/4000069925246.html
+
+RS08U11AZ001 10K Sliding Potentiometer x 1
+	https://www.aliexpress.com/item/1005003068728711.html
+
+ESP32 WROVER E 16MB Flash x 1
+	https://www.aliexpress.com/item/1005005282692598.html
+
+6-pin USB C socket x 1
+	https://www.aliexpress.com/item/1005007079016649.html
+
+Power Switch x 1
+	https://www.aliexpress.com/item/32758858821.html
+
+Micro SD Card Socket x 1
+	https://www.aliexpress.com/item/1005006210048232.html
+
+16GB/32GB Micro SD Card x 1
+	Amazon/eBay/your cable drawer
+
+370mAh 502530 LiPo Battery x 1
+	https://www.aliexpress.com/item/32879273117.html
+
+DS Lite D Pad Rubber Membrane x 1
+	https://www.aliexpress.com/item/1005006274193598.html
+
+Gameboy Pocket AB Rubber Membrane x 1
+	https://www.aliexpress.com/item/32880941497.html
+
+Tactile SMD Momentary Buttons 1.5mm Tall x 4
+	https://www.aliexpress.com/item/10000056308274.html
+
+1.69" ST7789V Screen with Rounded Corners x 1
+	https://www.aliexpress.com/item/1005004819147206.html
+
+1.6mm Custom PCB x 1
+	https://jlcpcb.com/
+
+USB to UART Serial Module x 1
+	https://www.aliexpress.com/item/1005006445462581.html
+
+3D Printed Case & Parts x 1
+	https://www.pcbway.com/rapid-prototyping
+
+8mm long M2 self-tapping screws x 4
