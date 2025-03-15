@@ -1,4 +1,5 @@
 Wrigley is an ESP32 powered gaming handheld that uses retro-go from ducalex.
+
 It measures 100x35x15mm and has roughly 3 hours of battery life.
 
 This is not a beginner project.
@@ -7,6 +8,7 @@ These files are provided for free and with no guarantees.
 These files are provided for personal use and not for resale purposes.
 
 You will need the SD card skeleton files from here: https://1drv.ms/u/c/66cb300826c22fa3/Efv0uc86yZ5Hv4n83UHvBrcBqe-35vOahgP56gvEnUvf-g?e=ifL2Ww
+
 You will also need the ESP32 flash download tool: https://1drv.ms/u/c/66cb300826c22fa3/EbNSYC88lTlOn8YUjpB1ucgBnk_qerDjQeKToj3xAFp3lw?e=woOXxG
 
 Do not use a USB C to USB C cable to charge Wrigley, it does not have anything connected to CC1 or CC2.
