@@ -1,6 +1,10 @@
 The Null Nano is an ESP32 powered gaming handheld that uses retro-go from ducalex.
 
+![alt text](https://github.com/DesignedbyAmpersand/Null-Nano/blob/main/Photos/Front%20GB.jpg "Front GB")
+
 It measures 100x35x15mm and has roughly 3 hours of battery life.
+
+![alt text](https://github.com/DesignedbyAmpersand/Null-Nano/blob/main/Photos/Back.jpg "Back")
 
 This is not a beginner project.
 
