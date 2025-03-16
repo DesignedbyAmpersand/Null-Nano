@@ -1,4 +1,4 @@
-Wrigley is an ESP32 powered gaming handheld that uses retro-go from ducalex.
+The Null Nano is an ESP32 powered gaming handheld that uses retro-go from ducalex.
 
 It measures 100x35x15mm and has roughly 3 hours of battery life.
 
@@ -11,13 +11,13 @@ You will need the SD card skeleton files from here: https://1drv.ms/u/c/66cb3008
 
 You will also need the ESP32 flash download tool: https://1drv.ms/u/c/66cb300826c22fa3/EbNSYC88lTlOn8YUjpB1ucgBnk_qerDjQeKToj3xAFp3lw?e=woOXxG
 
-Do not use a USB C to USB C cable to charge Wrigley, it does not have anything connected to CC1 or CC2.
+Do not use a USB C to USB C cable to charge the Null Nano, it does not have anything connected to CC1 or CC2.
 
-Do not use Wrigley whilst charging, it does not have the necessary components to make this safe.
+Do not use the Null Nano whilst charging, it does not have the necessary components to make this safe.
 
 Use Kapton tape, do not use regular tape or masking tape.
 
-You will need the latest version of the ESP flash tool to flash Wrigley. Make sure you have installed the necessary drivers for your USB to UART adapter. The "options" button acts as a Boot button, so hold down options when you turn it on/provide power to enter bootloader mode for flashing.
+You will need the latest version of the ESP flash tool to flash the Null Nano. Make sure you have installed the necessary drivers for your USB to UART adapter. The "options" button acts as a Boot button, so hold down options when you turn it on/provide power to enter bootloader mode for flashing.
 
 The R3 resistor determines the charge rate. 1000/X = Y
 e.g. for a 5.6K resistor the equation is 1000/5.6 = 179mA
@@ -51,7 +51,7 @@ Retro-go software
 https://github.com/ducalex/retro-go
 
 All graphics designed by me
-
+The working title was "Wrigley" if you were wondering.
 
 Let me know if you make one, have fun!
 Ampersand
